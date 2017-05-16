@@ -1,0 +1,11 @@
+c:\users\adnkh\onedrive\documents\visual studio 2015\Projects\OracleGen\OracleGen\bin\Debug\OracleGen.exe.config
+c:\users\adnkh\onedrive\documents\visual studio 2015\Projects\OracleGen\OracleGen\bin\Debug\OracleGen.exe
+c:\users\adnkh\onedrive\documents\visual studio 2015\Projects\OracleGen\OracleGen\bin\Debug\OracleGen.pdb
+c:\users\adnkh\onedrive\documents\visual studio 2015\Projects\OracleGen\OracleGen\bin\Debug\OracleGen.xml
+c:\users\adnkh\onedrive\documents\visual studio 2015\Projects\OracleGen\OracleGen\obj\Debug\OracleGen.vbprojResolveAssemblyReference.cache
+c:\users\adnkh\onedrive\documents\visual studio 2015\Projects\OracleGen\OracleGen\obj\Debug\OracleGen.Form1.resources
+c:\users\adnkh\onedrive\documents\visual studio 2015\Projects\OracleGen\OracleGen\obj\Debug\OracleGen.Resources.resources
+c:\users\adnkh\onedrive\documents\visual studio 2015\Projects\OracleGen\OracleGen\obj\Debug\OracleGen.vbproj.GenerateResource.Cache
+c:\users\adnkh\onedrive\documents\visual studio 2015\Projects\OracleGen\OracleGen\obj\Debug\OracleGen.exe
+c:\users\adnkh\onedrive\documents\visual studio 2015\Projects\OracleGen\OracleGen\obj\Debug\OracleGen.xml
+c:\users\adnkh\onedrive\documents\visual studio 2015\Projects\OracleGen\OracleGen\obj\Debug\OracleGen.pdb
