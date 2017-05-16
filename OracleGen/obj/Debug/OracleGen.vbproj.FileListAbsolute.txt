@@ -9,3 +9,14 @@ c:\users\adnkh\onedrive\documents\visual studio 2015\Projects\OracleGen\OracleGe
 c:\users\adnkh\onedrive\documents\visual studio 2015\Projects\OracleGen\OracleGen\obj\Debug\OracleGen.exe
 c:\users\adnkh\onedrive\documents\visual studio 2015\Projects\OracleGen\OracleGen\obj\Debug\OracleGen.xml
 c:\users\adnkh\onedrive\documents\visual studio 2015\Projects\OracleGen\OracleGen\obj\Debug\OracleGen.pdb
+D:\VB\0\Oracle-Table-Script-Generator\OracleGen\bin\Debug\OracleGen.exe.config
+D:\VB\0\Oracle-Table-Script-Generator\OracleGen\obj\Debug\OracleGen.exe
+D:\VB\0\Oracle-Table-Script-Generator\OracleGen\obj\Debug\OracleGen.xml
+D:\VB\0\Oracle-Table-Script-Generator\OracleGen\obj\Debug\OracleGen.pdb
+D:\VB\0\Oracle-Table-Script-Generator\OracleGen\obj\Debug\OracleGen.vbprojResolveAssemblyReference.cache
+D:\VB\0\Oracle-Table-Script-Generator\OracleGen\obj\Debug\OracleGen.Form1.resources
+D:\VB\0\Oracle-Table-Script-Generator\OracleGen\obj\Debug\OracleGen.vbproj.GenerateResource.Cache
+D:\VB\0\Oracle-Table-Script-Generator\OracleGen\bin\Debug\OracleGen.exe
+D:\VB\0\Oracle-Table-Script-Generator\OracleGen\bin\Debug\OracleGen.pdb
+D:\VB\0\Oracle-Table-Script-Generator\OracleGen\bin\Debug\OracleGen.xml
+D:\VB\0\Oracle-Table-Script-Generator\OracleGen\obj\Debug\OracleGen.Resources.resources
